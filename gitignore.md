@@ -1,0 +1,15 @@
+Sistemski fajlovi
+
+.DS_Store
+
+Thumbs.db
+
+node_modules/
+
+.vscode/
+
+Build fajlovi
+
+dist/
+
+build/
